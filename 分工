@@ -1,0 +1,40 @@
+public PixelEditor extends JFrame//視窗處理     /*羽*/
+{
+/*Declare button object,color...,Canvus object*/
+
+PixelEditor()//construxtor
+{
+/*define,setting button...*/
+
+/***********************************************************************
+* Ex: redButton.addActionListener(                                     *
+*      new ActionListener(){                                           *
+*        public void actionPerformed(ActionEvent e){ //if click button *
+*           SetColor()                                                 *
+*        }                                                             *
+*      }                                                               * 
+*    );                                                                *
+************************************************************************/
+
+/*dragButton*/
+/*colorButton*/
+/*NewCanvasButton*/
+
+}
+
+
+}
+
+public Canvas implements ActionListener,MouseMotionListener,MouseListener//實作內容
+{
+/*Declare mousePosition...*/
+
+
+/**********************
+*      setColor       *
+*        畫布         * /*安*/
+*        drag         * /*李*/
+*    NewCanvasButton  */*洪*/
+***********************/
+
+}
